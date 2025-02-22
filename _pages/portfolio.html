@@ -7,8 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
+{% if site.portfolio.size == 0 %}
+  <p style="text-align: center; font-size: 1.5em;">🚀 <strong>Coming Soon!</strong> Stay tuned for updates.</p>
+{% else %}
+<!-- {% for post in site.portfolio %} -->
+<!--   {% include archive-single.html %} -->
+<!-- {% endfor %} -->
 
