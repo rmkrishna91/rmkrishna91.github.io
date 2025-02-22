@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 📄 **[Download My CV (PDF)](/R_M_Krishna_NIT_Silchar_111 (1).pdf)**
+
+
 Education
 ======
 * Master of Technology in Artificial Intelligence, NIT Silchar,India, 2025
