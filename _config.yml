@@ -22,11 +22,11 @@ repository               : "rmkrishna91/rmkrishna91.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "my.png"
   name             : "Reddi Mohana Krishna"
   pronouns         : # example: "she/her"  
   bio              : "Hello, I'm an AI researcher and M.Tech student at NIT Silchar, specializing in LLMs, NLP, and deep learning."
-  location         : "Earth"
+  location         : "Banglore,India"
   employer         : "National Institute of Technology Silchar"
   uri              : # URL
   email            : "mkreddi001@gmail.com" 
@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "rmkrishna91"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         :  "mkreddi001"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
