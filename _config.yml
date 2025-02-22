@@ -23,13 +23,13 @@ repository               : "rmkrishna91/rmkrishna91.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Reddi Mohana Krishna"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Hello, I'm an AI researcher and M.Tech student at NIT Silchar, specializing in LLMs, NLP, and deep learning."
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "National Institute of Technology Silchar"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "mkreddi001@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
