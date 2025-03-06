@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-📄 **[Download My CV (PDF)](/R_M_Krishna_NIT_Silchar_111 (1).pdf)**
+📄 **[Download My CV (PDF)](/krishna_resume.pdf)**
 
 
 Education
