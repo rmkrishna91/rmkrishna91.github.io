@@ -1,7 +1,30 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "AI Text Detection"
+excerpt: "Detects AI-generated text with high accuracy.<br/><img src='/images/ai-text-detection-thumbnail.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+## AI-Generated Text Detection  
+This project is designed to classify text as either AI-generated or human-written using deep learning techniques. It combines text embeddings with numerical linguistic features to improve accuracy.
+
+### Features  
+- Uses **Sentence Transformers** for text embeddings  
+- Incorporates **27 linguistic features** for enhanced classification  
+- Built with **PyTorch and Streamlit** for an interactive user interface  
+- Real-time text analysis with **probability scores**  
+
+### Technologies Used  
+- **Python, PyTorch, NLP models**  
+- **Streamlit UI for real-time interaction**  
+- **Scikit-learn for feature engineering**  
+
+### Demo  
+[![Watch the Demo](https://your-image-link.com/demo-thumbnail.png)](https://your-video-link.com)  
+*(Click on the image to watch the demo.)*  
+
+### Screenshots  
+![AI Text Detection UI](https://your-image-link.com/ui_screenshot.png)  
+
+### Links  
+- **GitHub Repository**: [View on GitHub](https://github.com/your-github-username/your-repo)  
+- **Live Demo**: [Try it here](https://your-demo-link.com)  
