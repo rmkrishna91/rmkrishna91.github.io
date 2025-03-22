@@ -19,7 +19,7 @@ This project is designed to classify text as either AI-generated or human-writte
 - **Scikit-learn for feature engineering**  
 
 ### Demo  
-[![Watch the Demo](https://your-image-link.com/demo-thumbnail.png)](https://your-video-link.com)  
+[![Watch the Demo]()](mhttps://www.youtube.com/watch?v=0bihl-rwkAM)  
 *(Click on the image to watch the demo.)*  
 
 ### Screenshots  
@@ -27,4 +27,4 @@ This project is designed to classify text as either AI-generated or human-writte
 
 ### Links  
 - **GitHub Repository**: [View on GitHub](https://github.com/your-github-username/your-repo)  
-- **Live Demo**: [Try it here](https://your-demo-link.com)  
+- **Live Demo**: [Try it here](https://aitextdetection.streamlit.app/)  
