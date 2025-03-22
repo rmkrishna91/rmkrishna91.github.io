@@ -28,7 +28,7 @@ This project is designed to classify text as either AI-generated or human-writte
 
 ### Demo  
 <iframe 
-  src="https://www.youtube.com/embed/oHDeVK3qTks" frameborder="0" allowfullscreen></iframe>  
+  src="https://www.youtube.com/embed/0bihl-rwkAM" frameborder="0" allowfullscreen></iframe>  
 
 ### Screenshots  
 <img src="/aidetection.png" alt="AI Text Detection UI" width="100%"/>  
