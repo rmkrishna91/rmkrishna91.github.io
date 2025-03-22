@@ -1,6 +1,6 @@
 ---
 title: "AI Text Detection"
-excerpt: "Detects AI-generated text with high accuracy.<br/><img src='/images/ai-text-detection-thumbnail.png'>"
+excerpt: "Detects AI-generated text with high accuracy.<br/><img src='aidetection.png'>"
 collection: portfolio
 ---
 
@@ -19,11 +19,11 @@ This project is designed to classify text as either AI-generated or human-writte
 - **Scikit-learn for feature engineering**  
 
 ### Demo  
-[![Watch the Demo]()](mhttps://www.youtube.com/watch?v=0bihl-rwkAM)  
+[![Watch the Demo]()](https://www.youtube.com/watch?v=0bihl-rwkAM)  
 *(Click on the image to watch the demo.)*  
 
 ### Screenshots  
-![AI Text Detection UI](https://your-image-link.com/ui_screenshot.png)  
+![AI Text Detection UI](aidetection.png)  
 
 ### Links  
 - **GitHub Repository**: [View on GitHub](https://github.com/your-github-username/your-repo)  
