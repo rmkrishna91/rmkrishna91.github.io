@@ -8,8 +8,8 @@ collection: portfolio
 This project is designed to classify text as either AI-generated or human-written using deep learning techniques. It combines text embeddings with numerical linguistic features to improve accuracy.
 
 ### Architecture
-<img src="imageslinguisticfeatures.png" alt="Linguistic Feature Extraction" width="100%"/>  
-<img src="images/HCI_model_architecture.png" alt="Project Architecture" width="100%"/>  
+<img src="linguisticfeatures.png" alt="Linguistic Feature Extraction" width="100%"/>  
+<img src="HCI_model_architecture.png" alt="Project Architecture" width="100%"/>  
 
 ### Features  
 - Uses **Sentence Transformers** for text embeddings  
