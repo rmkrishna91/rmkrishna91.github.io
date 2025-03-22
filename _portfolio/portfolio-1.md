@@ -7,12 +7,12 @@ collection: portfolio
 ## AI-Generated Text Detection  
 This project is designed to classify text as either AI-generated or human-written using deep learning techniques. It combines text embeddings with numerical linguistic features to improve accuracy.
 
-### Architecture
+### Linguistic Feature Extraction
  
 <img src="/linguisticfeatures (1).png" alt="Linguistic Feature Extraction" width="560" height="315"/> 
 
-
-
+### Architecture
+img src="/HCI_model_architecture.png" alt="Linguistic Feature Extraction" width="560" height="315"/> 
 
 
 ### Features  
@@ -31,7 +31,7 @@ This project is designed to classify text as either AI-generated or human-writte
   src="https://www.youtube.com/embed/0bihl-rwkAM" frameborder="0" allowfullscreen></iframe>  
 
 ### Screenshots  
-<img src="aidetection.png" alt="AI Text Detection UI" width="100%"/>  
+<img src="/aidetection.png" alt="AI Text Detection UI" width="100%"/>  
 
 ### Links  
 - **GitHub Repository**: [View on GitHub](https://github.com/your-github-username/your-repo)  
