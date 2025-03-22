@@ -9,7 +9,7 @@ This project is designed to classify text as either AI-generated or human-writte
 
 ### Architecture
  
-<img src="images/HCI_model_architecture.png" alt="Linguistic Feature Extraction" width="560" height="315"/> 
+<img src="/linguisticfeatures.png" alt="Linguistic Feature Extraction" width="560" height="315"/> 
 
 
 
