@@ -1,6 +1,6 @@
 ---
 title: "AI Data Analyst Chatbot"
-excerpt: "A Conversational AI Agent that analyzes and visualizes your data with natural language prompts.<br/><img src='/dataanalysis'>"
+excerpt: "A Conversational AI Agent that analyzes and visualizes your data with natural language prompts.<br/><img src='/dataanalysis.png'>"
 collection: portfolio
 ---
 
@@ -32,7 +32,7 @@ To maintain project security, 🛡️ architecture and source code are not publi
 ### Demo  
 
 <iframe 
-  src="https://youtu.be/oHDeVK3qTks" frameborder="0" allowfullscreen></iframe>  
+  src="https://www.youtube.com/embed/oHDeVK3qTks" frameborder="0" allowfullscreen></iframe>  
 
 ---
 
