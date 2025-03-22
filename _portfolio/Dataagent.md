@@ -58,8 +58,4 @@ To maintain project security, 🛡️ architecture and source code are not publi
 <img src="/Boxplot.png" alt="Box plot by agent" width="100%"/>  
 <img src="/dataanalysis.png" alt="Data analysis by agent" width="100%"/>  
 
----
-
-### Links  
-- 📚 **GitHub Repository**: [View on GitHub](https://github.com/your-github-username/ai-data-analyst-chatbot)  
-- 🚀 **Live Demo**: [Try it here](https://dataanalystchatbot.streamlit.app/)  
+--- 
