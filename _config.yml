@@ -22,7 +22,7 @@ repository               : "rmkrishna91/rmkrishna91.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "grey.png"
+  avatar           : "white.jpg"
   name             : "Reddi Mohana Krishna"
   pronouns         : # example: "she/her"  
   bio              : "Deep Learning,NLP,Gen AI."
