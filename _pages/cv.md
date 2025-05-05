@@ -40,12 +40,14 @@ Skills
 * Generative AI
 * Agentic AI
 
+{%- comment -%}
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
+ <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+{%- endcomment -%}
+
 
   
 Service and leadership
