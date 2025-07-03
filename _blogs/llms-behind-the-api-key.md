@@ -3,7 +3,8 @@ title: "🦙 LLaMA ChatGPT Pipeline: Replicating ChatGPT with LLaMA 3.2 1B"
 layout: post
 date: 2025-07-02
 tags: ["llama", "chatgpt", "huggingface", "transformers", "llm", "tutorial"]
-author: Krishna Reddy
+author: Krishna
+author_profile: true
 summary: "A walkthrough of how to replicate ChatGPT-style interactions using Meta's LLaMA 3.2 1B Instruct model and Hugging Face's Transformers library."
 ---
 
