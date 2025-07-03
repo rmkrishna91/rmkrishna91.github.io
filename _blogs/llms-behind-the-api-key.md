@@ -1,5 +1,5 @@
 ---
-title: "🦙 LLaMA ChatGPT Pipeline: Replicating ChatGPT with LLaMA 3.2 1B"
+title: "LLMs Behind the API Key"
 layout: single
 date: 2025-07-02
 tags: ["llama", "chatgpt", "huggingface", "transformers", "llm", "tutorial"]
